@@ -1,7 +1,7 @@
 ---
-name: Rayane Guebre
-slack_handle: @U074C9BE604
-github_handle: @rayanlupo
+name: "Rayane Guebre"
+slack_handle: "@U074C9BE604"
+github_handle: "@rayanlupo"
 tutorial:https://jams.hackclub.com/jam/hacker-card
 
 # Rayan's businesss card
