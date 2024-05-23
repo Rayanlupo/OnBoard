@@ -1,10 +1,10 @@
 ---
 name: "Rayane Guebre"
-slack_handle: "@U074C9BE604"
-github_handle: "@rayanlupo"
+slack_handle: @U074C9BE604
+github_handle: @rayanlupo
 tutorial:https://jams.hackclub.com/jam/hacker-card
 
-# Rayan's businesss card
+# Rayan's business card
 
 <!-- Describe your board in 2-3 sentences. What are you making? What will it do? -->
 I've projected a business card that uses a NFC to send my contacts to someone
